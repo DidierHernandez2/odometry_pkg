@@ -1,0 +1,25 @@
+[0.650s] Invoking command in '/home/darhf/Manchester/Week10/odometry/src/odometry_pkg': PYTHONPATH=/home/darhf/Manchester/Week10/odometry/build/odometry_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darhf/Manchester/Week10/odometry/install/odometry_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/odometry_pkg build --build-base /home/darhf/Manchester/Week10/odometry/build/odometry_pkg/build install --record /home/darhf/Manchester/Week10/odometry/build/odometry_pkg/install.log --single-version-externally-managed install_data
+[0.866s] running egg_info
+[0.866s] writing ../../build/odometry_pkg/odometry_pkg.egg-info/PKG-INFO
+[0.867s] writing dependency_links to ../../build/odometry_pkg/odometry_pkg.egg-info/dependency_links.txt
+[0.867s] writing entry points to ../../build/odometry_pkg/odometry_pkg.egg-info/entry_points.txt
+[0.867s] writing requirements to ../../build/odometry_pkg/odometry_pkg.egg-info/requires.txt
+[0.867s] writing top-level names to ../../build/odometry_pkg/odometry_pkg.egg-info/top_level.txt
+[0.868s] reading manifest file '../../build/odometry_pkg/odometry_pkg.egg-info/SOURCES.txt'
+[0.869s] writing manifest file '../../build/odometry_pkg/odometry_pkg.egg-info/SOURCES.txt'
+[0.869s] running build
+[0.870s] running build_py
+[0.870s] copying odometry_pkg/dead_reckoning.py -> /home/darhf/Manchester/Week10/odometry/build/odometry_pkg/build/lib/odometry_pkg
+[0.870s] running install
+[0.870s] running install_lib
+[0.871s] copying /home/darhf/Manchester/Week10/odometry/build/odometry_pkg/build/lib/odometry_pkg/dead_reckoning.py -> /home/darhf/Manchester/Week10/odometry/install/odometry_pkg/lib/python3.10/site-packages/odometry_pkg
+[0.871s] byte-compiling /home/darhf/Manchester/Week10/odometry/install/odometry_pkg/lib/python3.10/site-packages/odometry_pkg/dead_reckoning.py to dead_reckoning.cpython-310.pyc
+[0.872s] running install_data
+[0.872s] copying package.xml -> /home/darhf/Manchester/Week10/odometry/install/odometry_pkg/share/odometry_pkg
+[0.872s] running install_egg_info
+[0.874s] removing '/home/darhf/Manchester/Week10/odometry/install/odometry_pkg/lib/python3.10/site-packages/odometry_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.875s] Copying ../../build/odometry_pkg/odometry_pkg.egg-info to /home/darhf/Manchester/Week10/odometry/install/odometry_pkg/lib/python3.10/site-packages/odometry_pkg-0.0.0-py3.10.egg-info
+[0.875s] running install_scripts
+[0.899s] Installing dead_reckoning script to /home/darhf/Manchester/Week10/odometry/install/odometry_pkg/lib/odometry_pkg
+[0.899s] writing list of installed files to '/home/darhf/Manchester/Week10/odometry/build/odometry_pkg/install.log'
+[0.941s] Invoked command in '/home/darhf/Manchester/Week10/odometry/src/odometry_pkg' returned '0': PYTHONPATH=/home/darhf/Manchester/Week10/odometry/build/odometry_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darhf/Manchester/Week10/odometry/install/odometry_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/odometry_pkg build --build-base /home/darhf/Manchester/Week10/odometry/build/odometry_pkg/build install --record /home/darhf/Manchester/Week10/odometry/build/odometry_pkg/install.log --single-version-externally-managed install_data

@@ -9,6 +9,7 @@ setup.py
 ../../build/odometry_pkg/odometry_pkg.egg-info/top_level.txt
 ../../build/odometry_pkg/odometry_pkg.egg-info/zip-safe
 odometry_pkg/__init__.py
+odometry_pkg/dead_reckoning.py
 resource/odometry_pkg
 test/test_copyright.py
 test/test_flake8.py
