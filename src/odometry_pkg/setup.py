@@ -20,7 +20,11 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+<<<<<<< HEAD
             'dead_reckoning = odometry_pkg.dead_reckoning:main',
+=======
+            'dead_reckoning = odometry_pkg.dead_reckoning:main'
+>>>>>>> d34c3ea (Cambio de paquete)
         ],
     },
 )
