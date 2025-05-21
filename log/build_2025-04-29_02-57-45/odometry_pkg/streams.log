@@ -1,0 +1,25 @@
+[5.516s] Invoking command in '/home/puzzlebot/Fantastic4/Odometria/odometry_pkg/src/odometry_pkg': PYTHONPATH=/home/puzzlebot/Fantastic4/Odometria/odometry_pkg/build/odometry_pkg/prefix_override:/home/puzzlebot/Fantastic4/Odometria/odometry_pkg/install/odometry_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/odometry_pkg build --build-base /home/puzzlebot/Fantastic4/Odometria/odometry_pkg/build/odometry_pkg/build install --record /home/puzzlebot/Fantastic4/Odometria/odometry_pkg/build/odometry_pkg/install.log --single-version-externally-managed
+[6.526s] running egg_info
+[6.530s] writing ../../build/odometry_pkg/odometry_pkg.egg-info/PKG-INFO
+[6.531s] writing dependency_links to ../../build/odometry_pkg/odometry_pkg.egg-info/dependency_links.txt
+[6.532s] writing entry points to ../../build/odometry_pkg/odometry_pkg.egg-info/entry_points.txt
+[6.533s] writing requirements to ../../build/odometry_pkg/odometry_pkg.egg-info/requires.txt
+[6.533s] writing top-level names to ../../build/odometry_pkg/odometry_pkg.egg-info/top_level.txt
+[6.684s] reading manifest file '../../build/odometry_pkg/odometry_pkg.egg-info/SOURCES.txt'
+[6.687s] writing manifest file '../../build/odometry_pkg/odometry_pkg.egg-info/SOURCES.txt'
+[6.688s] running build
+[6.689s] running build_py
+[6.689s] running install
+[6.692s] running install_lib
+[6.696s] creating /home/puzzlebot/Fantastic4/Odometria/odometry_pkg/install/odometry_pkg/lib/python3.8/site-packages/odometry_pkg
+[6.697s] copying /home/puzzlebot/Fantastic4/Odometria/odometry_pkg/build/odometry_pkg/build/lib/odometry_pkg/__init__.py -> /home/puzzlebot/Fantastic4/Odometria/odometry_pkg/install/odometry_pkg/lib/python3.8/site-packages/odometry_pkg
+[6.697s] copying /home/puzzlebot/Fantastic4/Odometria/odometry_pkg/build/odometry_pkg/build/lib/odometry_pkg/dead_reckoning.py -> /home/puzzlebot/Fantastic4/Odometria/odometry_pkg/install/odometry_pkg/lib/python3.8/site-packages/odometry_pkg
+[6.699s] byte-compiling /home/puzzlebot/Fantastic4/Odometria/odometry_pkg/install/odometry_pkg/lib/python3.8/site-packages/odometry_pkg/__init__.py to __init__.cpython-38.pyc
+[6.704s] byte-compiling /home/puzzlebot/Fantastic4/Odometria/odometry_pkg/install/odometry_pkg/lib/python3.8/site-packages/odometry_pkg/dead_reckoning.py to dead_reckoning.cpython-38.pyc
+[6.707s] running install_data
+[6.709s] running install_egg_info
+[6.716s] Copying ../../build/odometry_pkg/odometry_pkg.egg-info to /home/puzzlebot/Fantastic4/Odometria/odometry_pkg/install/odometry_pkg/lib/python3.8/site-packages/odometry_pkg-0.0.0-py3.8.egg-info
+[6.720s] running install_scripts
+[6.783s] Installing dead_reckoning script to /home/puzzlebot/Fantastic4/Odometria/odometry_pkg/install/odometry_pkg/lib/odometry_pkg
+[6.784s] writing list of installed files to '/home/puzzlebot/Fantastic4/Odometria/odometry_pkg/build/odometry_pkg/install.log'
+[6.877s] Invoked command in '/home/puzzlebot/Fantastic4/Odometria/odometry_pkg/src/odometry_pkg' returned '0': PYTHONPATH=/home/puzzlebot/Fantastic4/Odometria/odometry_pkg/build/odometry_pkg/prefix_override:/home/puzzlebot/Fantastic4/Odometria/odometry_pkg/install/odometry_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/odometry_pkg build --build-base /home/puzzlebot/Fantastic4/Odometria/odometry_pkg/build/odometry_pkg/build install --record /home/puzzlebot/Fantastic4/Odometria/odometry_pkg/build/odometry_pkg/install.log --single-version-externally-managed
